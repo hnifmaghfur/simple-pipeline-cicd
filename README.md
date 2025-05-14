@@ -1,4 +1,6 @@
-# CI/CD Pipeline Sample with Github Action and Private Server
+![CI/CD Pipeline with Github Action and Private Server](public/cover.png)
+
+# Simple CI/CD Pipeline with Github Action and Private Server
 
 This repository is an example of how to create a CI/CD pipeline using Github Actions to deploy a Go application to a private server using an image from the Github Container Registry (GHCR).
 
